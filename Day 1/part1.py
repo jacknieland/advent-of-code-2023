@@ -1,4 +1,4 @@
-f = open("modified_input.txt", "r")
+f = open("input.txt", "r")
 lines = f.readlines()
 string_cats = []
 
